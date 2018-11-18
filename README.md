@@ -1,0 +1,3 @@
+# StreamPlyer
+copy all file from HLSPlayer,create a stable version that can use for daily.
+then,HLSPlayer project will always develop... 
